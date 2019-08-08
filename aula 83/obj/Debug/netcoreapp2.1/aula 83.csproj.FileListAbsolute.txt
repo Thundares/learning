@@ -1,0 +1,11 @@
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\obj\Debug\netcoreapp2.1\aula 83.csprojAssemblyReference.cache
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\obj\Debug\netcoreapp2.1\aula 83.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\obj\Debug\netcoreapp2.1\aula 83.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\obj\Debug\netcoreapp2.1\aula 83.AssemblyInfo.cs
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\bin\Debug\netcoreapp2.1\aula 83.deps.json
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\bin\Debug\netcoreapp2.1\aula 83.runtimeconfig.json
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\bin\Debug\netcoreapp2.1\aula 83.runtimeconfig.dev.json
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\bin\Debug\netcoreapp2.1\aula 83.dll
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\bin\Debug\netcoreapp2.1\aula 83.pdb
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\obj\Debug\netcoreapp2.1\aula 83.dll
+C:\Users\Cliente\source\aulas\primeiro projeto\aula 83\aula 83\obj\Debug\netcoreapp2.1\aula 83.pdb
